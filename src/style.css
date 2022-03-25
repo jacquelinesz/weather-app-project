@@ -1,0 +1,107 @@
+h1 {
+  text-align: center;
+  font-size: 25px;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: 3px;
+}
+h4 {
+  text-align: center;
+  font-size: 25px;
+  letter-spacing: 2px;
+}
+h5 {
+  text-align: center;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+p {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+.container {
+  font-family: "Raleway", sans-serif;
+  background: #edc4b3;
+  border: 3px solid #774936;
+  border-radius: 8px;
+  width: 100%;
+}
+.search-bar {
+  background: #fffddd;
+  color: #353b3c;
+  border-radius: 5px;
+  border: 2px solid #774936;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.button {
+  background: #fffddd;
+  color: #353b3c;
+  border-radius: 5px;
+  border: 2px solid #774936;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.current-location {
+  background: #fffddd;
+  color: #353b3c;
+  border-radius: 5px;
+  border: 2px solid #774936;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  font-size: 20px;
+}
+.current-icon {
+  font-size: 200px;
+}
+.current-stats {
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+.days {
+  font-size: 18px;
+}
+.day-0 {
+  text-align: center;
+  background: #c38e70;
+  border: 1px solid #774936;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.day-1 {
+  text-align: center;
+  background: #cd9777;
+  border: 1px solid #774936;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.day-2 {
+  text-align: center;
+  background: #b07d62;
+  border: 1px solid #774936;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.day-3 {
+  text-align: center;
+  background: #d69f7e;
+  border: 1px solid #774936;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.day-4 {
+  text-align: center;
+  background: #9d6b53;
+  border: 1px solid #774936;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.day-5 {
+  text-align: center;
+  background: #deab90;
+  border: 1px solid #774936;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
